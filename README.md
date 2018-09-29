@@ -16,7 +16,6 @@
 </p>
 </ul>
  <h3>Screenshot:</h2>
-    <p>Result Screen</p>
     <a href="https://ibb.co/ftYJDe"><img src="https://preview.ibb.co/gZspKK/Screenshot_20180930_000839.png" alt="Screenshot_20180930_000839" border="0"></a>    
    
 </body>
