@@ -12,7 +12,7 @@
 </ul>
 </p>
  <h3>Models</h3>
- <p>The cubes and their models have been designed myself. The physics of the objects and their properties are set very meticulously so as to achieve the best possible interaction.
+ <p>The cubes and their models have been designed myself. The physics of the objects and their properties are set very meticulously so as to achieve the best possible interaction. There is a camera designed for the head rotation purposes. The yellow cubes give you positive points and the red cubes give you negative points. When the timer runs out, all the objects (Cubes) are destroyed and your total score is displayed at the screen.
 </p>
 </ul>
  <h3>Screenshot:</h2>
